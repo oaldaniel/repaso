@@ -1,0 +1,64 @@
+/*PROPIEDADES*/
+
+p{
+	background-color: red; 
+	/*fondo de color*/
+	background-image: url("");
+	/*pones la imagen de fondo*/
+	background-repeat: no-repeat;
+	/*no se repite la imagen*/
+	background-size: contain;
+	/*se ajustara al ancho y muestra todo el contenido*/
+	background-size: cover;
+	/*se ajustara a todo la pantalla*/
+	background-attachment: fixed;
+	/*deja la imagen fija aunque bajes con la ruleta del raton*/
+	color: blue; 
+	/*color de la letra/fuente*/
+	border: 1px solid green; 
+	/*borde solido verde*/
+	border-top: 3px solid green; 
+	/*borde de arriba solido verde*/
+	border-right: 1px solid green; 
+	/*pone un palito de separacion a la izquierda del elemento de la lista*/
+	border-radius: 10px;
+	/*para poner el borde un poco redondeado*/
+	font-size: 20px; 
+	/*tamaño de la fuente/letra de 20px*/
+	font-size: 20em; 
+	/*tamaño de la fuente/letra del doble de medida*/
+	font-style: italic;
+	/*tipo de letra de la fuente (ladeada)*/
+	font-family: Verdana;
+	/*tipo de fuente*/
+	font-weight: 400;
+	/*grosor de la letra*/ 
+	width: 200px; 
+	/*ancho de algo*/
+	width: 20%;
+	/*ancho del 20% de su contenedor*/
+	max-width: 20px;
+	min-width: 20px;
+	/*el ancho maximo/minimo que se va mostrar*/
+	height: 20px;
+	/*el alto de algo*/
+	padding: 0px;
+	/*relleno que hay entre el contenido y el borde -----quedaria pegado a la letra*/
+	padding-bottom: 10px;
+	/*relleno que hay entre el contenido y el borde inferior*/
+	padding: 10px 15px 10px 15px;
+	/*margen del relleno de 10px arriba/15px derecha/10px abajo/15px izquierda*/
+	padding: 8px 12px;
+	/*margen del relleno arriba abajo 8px/izquierda y derechha 12px*/
+	margin: 30px;
+	/*margen de 30px*/
+	margin-left: 30px;
+	/*margen a la izquierda de 30px*/
+	text-align: justify;
+	/*el texto esta justificado*/
+	text-decoration: none;
+	/*para que no salga la rallita de abajo de los enlaces, es decir, que no salga nada*/
+	
+
+
+
